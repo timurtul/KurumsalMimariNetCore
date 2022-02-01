@@ -1,0 +1,7 @@
+﻿Bu katman VeriTabanı tabloları, tabloları ile beraber oluşturulacak complex tipler ve proje boyunca kullanacağımız nesneleri içerir.
+
+
+Not: eğer bir nesne (public class Product) çıplak duruyorsa yani miras almıyorsa ( :IEntity gibi) zaafiyet yaratabilir.
+
+
+Concrete -> Somut nesnelerimiz için. 

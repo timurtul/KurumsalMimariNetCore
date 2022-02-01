@@ -1,0 +1,5 @@
+﻿Bu katman sadece veritabanı işlemlerini yaptığımız katmandır. (SQL Komutları ve CRUD)
+
+
+Abstract -> Business katmanı ile iletişim kuracak katmandır.
+Concrete -> Somut nesnelerimiz için, Entity Framework ile ilgili bir işlem için kodu buraya yazacağız.
